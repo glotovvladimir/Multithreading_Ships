@@ -1,10 +1,10 @@
-Project to use multithreaded work
+# Project to use multithreaded work
 
-Main goal:
+## Main goal:
 
 - to implement thread pool work
 
-Subject area points:
+## Subject area points:
 
 - Assumed there are incoming objects (ships) with parameters (type, capacity).
 - There is a tunnel (BlockingQueue) where ships are going to appropriate pier to be unloaded.
